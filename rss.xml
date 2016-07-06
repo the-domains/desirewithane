@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[DesireWithAnE]]></title>
         <description><![CDATA[DesireWithAnE]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/desirewithane/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 13:56:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Jul 2016 15:21:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/desirewithane/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>As a commission artist, live painter and art teacher, Desire with an “E” (aka: Desiree Kim of Rising Zen) has a genuine love for humanity and a deep desire to help others release stress and feel empowered in daily life.</p>]]></description>
+            <link>https://thegrid.ai/desirewithane/as-a-commission-artist-live-painter-and-art-teacher-desire/index.html</link>
+            <guid isPermaLink="false">ff9882be-11ca-4fe1-88d3-c6b594787d9f</guid>
+            <pubDate>Wed, 06 Jul 2016 15:21:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Blue dragons are highly protective creatures and magical. This particular dragon emerged moment by moment through the combination of surrounding energies at Synesthesia while I painted and simultaneously pulled from the "information" the invisible vastness has shared with me about dragons, in my personal journey of life times and that evening...</p>]]></description>
-            <link>undefinedblue-dragons-are-highly-protective-creatures-and-magical-th/index.html</link>
+            <link>https://thegrid.ai/desirewithane/blue-dragons-are-highly-protective-creatures-and-magical-th/index.html</link>
             <guid isPermaLink="false">566aa77b-1061-4875-98a4-96260f79fcf7</guid>
             <pubDate>Wed, 06 Jul 2016 13:55:42 GMT</pubDate>
         </item>
